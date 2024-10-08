@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>3.8.1-RELEASE</version>
+	<version>3.8.1-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>JOMACS Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/gtb-app-snapshot/</url>
+	      <url><http://52.70.104.179:8081/repository/jomacs-snapshot//url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
